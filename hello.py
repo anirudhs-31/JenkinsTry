@@ -1,4 +1,4 @@
-num=int(input("Enter a number:"))
+num = 123321
 temp=num
 rev=0
 while(num>0):
